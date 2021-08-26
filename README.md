@@ -4,5 +4,5 @@ carbonaceous sulfur hydride](https://www.overleaf.com).
 Please cite this paper if you use the data from this repository.
 
 The first comment line of each .in file contains the following data:
-The number of atoms, units of the file and enthalpy of the structure calculated
+The number of atoms, units of the file and the enthalpy of the structure calculated
 with FHI-AIMS - an all electron DFT library. The data is separated by spaces.
