@@ -13,4 +13,4 @@ The structure files are named using the following convention:
 The first comment line of each .in file contains the following data:
 The number of atoms, units of the file and the enthalpy of the structure in eV calculated
 with FHI-AIMS - an all electron DFT library. The data is separated by spaces. A detailed
-description of the .in file format can be found [here:](https://ndownloader.figshare.com/files/22871930)
+description of the .in file format can be found [here](https://ndownloader.figshare.com/files/22871930 ".in file format").
