@@ -7,8 +7,7 @@ of a stochiometry are presented here.
 
 ## Naming of .in files
 The structure files are named using the following convention:
-{stochoimetry}_{number of local minimum}.in
-
+{stochoimetry}_{number of local minimum}.in were 0 corresponds to the minimum with the lowest enthalpy.
 ## Additional data in .in files
 The first comment line of each .in file contains the following data:
 The number of atoms, units of the file and the enthalpy of the structure in eV calculated
