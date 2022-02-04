@@ -1,6 +1,6 @@
 # C-H-S structures at 250GPa
 This repository contains a selection of the structural data and DOS plots of the paper [Missing theoretical evidence for conventional room temperature superconductivity in low enthalpy structures of
-carbonaceous sulfur hydrides](https://arxiv.org/abs/2109.10019). Please cite this paper if you use the data from this repository.
+carbonaceous sulfur hydrides](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.6.014801). Please cite this paper if you use the data from this repository.
 
 All structures that do not differ more than 20 meV per atom from the putative global minimum
 of a stochiometry are presented here.
